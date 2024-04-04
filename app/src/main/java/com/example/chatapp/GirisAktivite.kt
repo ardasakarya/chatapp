@@ -47,7 +47,7 @@ class GirisAktivite : AppCompatActivity() {
 
     }
 
-
+//yorum satırı
     fun kayitol(view: View) {
         val email = EmailText.text.toString()
         val sifre = PasswordText.text.toString()
